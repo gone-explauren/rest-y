@@ -1,0 +1,10 @@
+@use '../../styles/_colors';
+
+footer {
+  background: colors.$maincolor;
+  border-top: 1px solid whitesmoke;
+  padding: 1em 3em;
+  margin: 0;
+  color: whitesmoke;
+  text-align: center;
+}
