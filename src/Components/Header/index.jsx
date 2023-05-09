@@ -1,13 +1,12 @@
 import React from 'react';
+import './Header.scss';
 
-class Header extends React.Component {
-  render() {
-    return (
-      <header>
-        <h1>REST-y</h1>
-      </header>
-    );
-  }
+function Header(props) {
+  return (
+    <header>
+      <h1>REST-y</h1>
+    </header>
+  )
 }
 
 export default Header;
