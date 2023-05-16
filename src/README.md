@@ -10,3 +10,14 @@
 
 * Lab-27
 * Today, we will be receiving user input in preparation of connecting to live APIs, using the useState() hook in our functional components. In order to properly manage state with the useState hook, we will now convert <App /> to a functional component.
+
+## Phase Three
+
+* Lab-28
+* In phase 3, we will be connecting RESTy to live APIs, fetching and displaying remote data. Our primary focus will be to service GET requests.
+
+## Phase Four
+
+* Lab-29
+* Today, we will be tracking every API call and storing it in history.
+* 
